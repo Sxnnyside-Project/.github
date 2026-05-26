@@ -1,191 +1,90 @@
-<!-- ===============================
-     SXNNYSIDE PROJECT · ENTERPRISE README
-     =============================== -->
+<!-- 
+something bigger is being built here ✦
+-->
+<div align="center">
+  <img src="../Banner.png" width="90%" />
 
-<h1 align="center">
-  ◐ Sxnnyside Project
-</h1>
+  ## ✦ Sxnnyside Project
 
-<p align="center">
-  <em>
-    Independent software studio.<br/>
-    Desarrollo de productos digitales con foco en calidad, diseño y control técnico.
-  </em>
-</p>
+  Software that exists because it had to.  
+  No brief. No client. Just a need — and someone who didn't wait かわいい✨
 
-<p align="center">
-  <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
-</p>
+</div>
 
-<!-- ===============================
-     OVERVIEW
-     =============================== -->
+## 🧃 What this is ✦
 
-<h3 align="center">
-  ▲ Overview
-</h3>
+Products and tools built for specific problems.  
+No filler features. No workflows you didn't ask for ✦
 
-<p align="center">
-<strong>Sxnnyside Project</strong> es un estudio independiente de desarrollo de software.
-</p>
+Apps, libraries, utilities — each one knows who it exists for  
+before it exists (たぶん)
+
+One person. Full control over design, architecture, and distribution.  
+Everything here is intentional.
+
+## 🧠 The Stack ✦
 
 <p align="center">
-Diseña y construye aplicaciones, librerías y herramientas digitales con un enfoque
-en arquitectura sólida, experiencia de usuario cuidada y decisiones técnicas explícitas.
+  <img src="https://skillicons.dev/icons?i=swift,cs,rust,ts,dart,python,electron,supabase&theme=dark" />
 </p>
 
-<p align="center">
-Opera como una empresa unipersonal, manteniendo control total sobre diseño,
-implementación y distribución.
-</p>
+<details>
+<summary>✦ What's in the stack and why</summary>
 
-<!-- ===============================
-     SERVICES
-     =============================== -->
+<br>
 
-<h3 align="center">
-  ✦ Areas of Work
-</h3>
+**Swift / SwiftUI** — native Apple interfaces, no compromises  
+**C#** — desktop apps and ERP-grade systems  
+**Rust** — when correctness and performance are non-negotiable  
+**TypeScript** — bots, automation, web infrastructure  
+**Dart / Flutter** — one codebase, real multiplatform targets  
+**Python** — conversion tools, automation scripts, ML utilities  
+**Electron** — desktop apps when the ecosystem demands it  
+**Supabase** — infrastructure that stays out of the way
 
-<p align="center">
-  <sub>
-    aplicaciones nativas · software de escritorio · librerías UI · tooling interno ·
-    automatización · experimentación técnica
-  </sub>
-</p>
+</details>
 
-<p align="center">
-Los proyectos se desarrollan como productos completos, no como demostraciones.
-</p>
+The stack adapts to the problem.  
+Not the other way around.
 
-<!-- ===============================
-     PRODUCTS
-     =============================== -->
+## ◼ Active Projects ✦
 
-<h3 align="center">
-  ◼ Products & Projects
-</h3>
+| Project | Type | What it does |
+|---|---|---|
+| [Umbra SGO](https://www.sxnnysideproject.com/en/realms/sxnnyside-project/) | ERP | Operational management for mid-sized businesses |
+| [Pollux](https://github.com/HoujouSxnnyside/Pollux-Polyglot-Native-Bridge) | Framework | Deterministic runtime for ecosystem extensions |
+| [SmartStore](https://www.sxnnysideproject.com/en/realms/sxnnyside-project/) | Desktop App | Point of sale and inventory for local businesses |
+| [Eternitas](https://www.sxnnysideproject.com/en/realms/sxnnyside-project/) | Mobile App | What your subscriptions actually cost — long-term |
+| [SxnnyUI](https://github.com/Sxnnyside-Project/SxnnyUI) | Library | SwiftUI component library of the ecosystem |
+| [SEI](https://github.com/HoujouSxnnyside/sxnnyside-eloquent-icons) | Icon System | Every symbol designed to speak for itself |
+| [Debuggatha](https://www.sxnnysideproject.com/en/realms/sxnnyside-project/) | VS Code Ext. | Code documentation assistant — three personalities, none generic |
+| [Computtite](https://github.com/HoujouSxnnyside/computtite-desktop) | Desktop App | Computing asset management with real visibility |
 
-<p align="center">
-  <strong>SxnnyUI</strong><br/>
-  <sub>
-    Framework de componentes y extensiones para SwiftUI,
-    diseñado para interfaces consistentes y escalables.
-  </sub>
-</p>
+## 🟣 Distribution ✦
 
-<p align="center">
-  <strong>Syntaxeon</strong><br/>
-  <sub>
-    Lenguaje experimental orientado a explorar estructuras declarativas
-    y composición semántica.
-  </sub>
-</p>
+Public software lives here, open-source.  
+Private builds, early access, and executables through Patreon.
 
-<p align="center">
-  <strong>Obsfusku</strong><br/>
-  <sub>
-    Lenguaje esotérico basado en símbolos no estándar,
-    enfocado en exploración sintáctica y tooling.
-  </sub>
-</p>
+<div align="center">
 
-<p align="center">
-  <sub>
-    Otros productos y herramientas se distribuyen de forma privada
-    o bajo acuerdos específicos.
-  </sub>
-</p>
+[![Patreon](https://img.shields.io/badge/Support-Patreon-8E44FF?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/SxnnysideProject)
 
-<!-- ===============================
-     DISTRIBUTION
-     =============================== -->
+</div>
 
-<h3 align="center">
-  ◎ Distribution
-</h3>
-
-<p align="center">
-El software público se mantiene en repositorios open-source.
-</p>
-
-<p align="center">
-El software privado, builds anticipadas y ejecutables
-se distribuyen a través de Patreon.
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sxnnyside-Project">GitHub Organization</a> ·
-  <a href="https://www.patreon.com/SxnnysideProject">Patreon</a>
-</p>
-
-<!-- ===============================
-     PRESENCE
-     =============================== -->
-
-<h3 align="center">
-  ─ Online Presence
-</h3>
+## ─ Find us ✦
 
 <p align="center">
   <a href="https://www.sxnnysideproject.com">Website</a> ·
   <a href="https://www.instagram.com/sxnnyside_project">Instagram</a> ·
-  <a href="https://x.com/sxnny_project">X (Twitter)</a> ·
-  <a href="https://www.youtube.com/channel/UCjFe8XrkDPgDdqh5Y4Uw7KA">YouTube</a>
+  <a href="https://x.com/sxnny_project">X</a> ·
+  <a href="https://www.youtube.com/channel/UCjFe8XrkDPgDdqh5Y4Uw7KA">YouTube</a> ·
+  <a href="mailto:houjou.sxnnyside@sxnnyside.com">Email</a>
 </p>
 
-<p align="center">
+---
+
+<div align="center">
   <sub>
-    Updates de producto, previews visuales y anuncios se publican en estas plataformas.
+    Built with structure. Dressed in chaos ✦
   </sub>
-</p>
-
-<!-- ===============================
-     STRUCTURE
-     =============================== -->
-
-<h3 align="center">
-  ◼ Structure
-</h3>
-
-<p align="center">
-Sxnnyside Project es una empresa de un solo miembro.
-</p>
-
-<p align="center">
-La dirección técnica, diseño y desarrollo son gestionados internamente
-para asegurar consistencia y calidad.
-</p>
-
-<!-- ===============================
-     CONTACT
-     =============================== -->
-
-<h3 align="center">
-  ◎ Contact
-</h3>
-
-<p align="center">
-  <a href="mailto:houjou.sxnnyside@sxnnyside.com">
-    houjou.sxnnyside@sxnnyside.com
-  </a>
-</p>
-
-<!-- ===============================
-     CLOSING
-     =============================== -->
-
-<p align="center">
-  <sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub>
-</p>
-
-<p align="center">
-  <em>
-    Software construido con criterio profesional,<br/>
-    incluso cuando el equipo es pequeño.
-  </em>
-</p>
-
-<p align="center">
-  ◐ Sxnnyside Project
-</p>
+</div>
