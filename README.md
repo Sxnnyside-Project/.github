@@ -1,68 +1,90 @@
-<h1 align="center">🌒 Sxnnyside Project</h1>
-<p align="center"><em>Desarrollamos herramientas digitales con identidad, diseño consciente y un ligero toque de lo imposible.</em></p>
+<!-- 
+something bigger is being built here ✦
+-->
+<div align="center">
+  <img src="Banner.png" width="90%" />
+
+  ## ✦ Sxnnyside Project
+
+  Software that exists because it had to.  
+  No brief. No client. Just a need — and someone who didn't wait かわいい✨
+
+</div>
+
+## 🧃 What this is ✦
+
+Products and tools built for specific problems.  
+No filler features. No workflows you didn't ask for ✦
+
+Apps, libraries, utilities — each one knows who it exists for  
+before it exists (たぶん)
+
+One person. Full control over design, architecture, and distribution.  
+Everything here is intentional.
+
+## 🧠 The Stack ✦
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,cs,rust,ts,dart,python,electron,supabase&theme=dark" />
+</p>
+
+<details>
+<summary>✦ What's in the stack and why</summary>
+
+<br>
+
+**Swift / SwiftUI** — native Apple interfaces, no compromises  
+**C#** — desktop apps and ERP-grade systems  
+**Rust** — when correctness and performance are non-negotiable  
+**TypeScript** — bots, automation, web infrastructure  
+**Dart / Flutter** — one codebase, real multiplatform targets  
+**Python** — conversion tools, automation scripts, ML utilities  
+**Electron** — desktop apps when the ecosystem demands it  
+**Supabase** — infrastructure that stays out of the way
+
+</details>
+
+The stack adapts to the problem.  
+Not the other way around.
+
+## ◼ Active Projects ✦
+
+| Project | Type | What it does |
+|---|---|---|
+| [Umbra SGO](https://www.sxnnysideproject.com/en/realms/sxnnyside-project/) | ERP | Operational management for mid-sized businesses |
+| [Pollux](https://github.com/HoujouSxnnyside/Pollux-Polyglot-Native-Bridge) | Framework | Deterministic runtime for ecosystem extensions |
+| [SmartStore](https://www.sxnnysideproject.com/en/realms/sxnnyside-project/) | Desktop App | Point of sale and inventory for local businesses |
+| [Eternitas](https://www.sxnnysideproject.com/en/realms/sxnnyside-project/) | Mobile App | What your subscriptions actually cost — long-term |
+| [SxnnyUI](https://github.com/Sxnnyside-Project/SxnnyUI) | Library | SwiftUI component library of the ecosystem |
+| [SEI](https://github.com/HoujouSxnnyside/sxnnyside-eloquent-icons) | Icon System | Every symbol designed to speak for itself |
+| [Debuggatha](https://www.sxnnysideproject.com/en/realms/sxnnyside-project/) | VS Code Ext. | Code documentation assistant — three personalities, none generic |
+| [Computtite](https://github.com/HoujouSxnnyside/computtite-desktop) | Desktop App | Computing asset management with real visibility |
+
+## 🟣 Distribution ✦
+
+Public software lives here, open-source.  
+Private builds, early access, and executables through Patreon.
+
+<div align="center">
+
+[![Patreon](https://img.shields.io/badge/Support-Patreon-8E44FF?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/SxnnysideProject)
+
+</div>
+
+## ─ Find us ✦
+
+<p align="center">
+  <a href="https://www.sxnnysideproject.com">Website</a> ·
+  <a href="https://www.instagram.com/sxnnyside_project">Instagram</a> ·
+  <a href="https://x.com/sxnny_project">X</a> ·
+  <a href="https://www.youtube.com/channel/UCjFe8XrkDPgDdqh5Y4Uw7KA">YouTube</a> ·
+  <a href="mailto:houjou.sxnnyside@sxnnyside.com">Email</a>
+</p>
 
 ---
 
-## 🧭 Visión
-
-**Sxnnyside Project** es un laboratorio de ideas interactivas, donde el código no solo funciona: **fluye**.
-
-Creamos utilidades del diario, librerías UI y microaplicaciones experimentales con una fuerte orientación al diseño, a la experiencia de usuario y al arte del detalle.
-
-> "Open-source with character. Interfaces with a soul."
-
----
-
-## 🧪 Proyectos Destacados
-
-### 🎨 [SxnnyUI](https://github.com/Sxnnyside-Project/SxnnyUI)
-Librería de Swift que ofrece una variedad de componentes UI, extensiones, funcionalidad y modificadores para integrar en tu app.  
-> _SwitfUI meets magical aesthetics._
-
-### 🦠 [Obsfunku](https://github.com/Sxnnyside-Project/Obsfunku)
-Lenguaje esotérico basado en símbolos
-> _No apto para mortales ni para linters._
-
-### 🔤 [Syntaxeon](https://github.com/Sxnnyside-Project/Syntaxeon)
-Lenguaje esotérico basado en la poesía.
-> _Prohibido perder el ritmo, y la métrica._
-
----
-
-## 🛠️ ¿Qué hacemos?
-
-- **Apps nativas** con flair ✨  
-- **Aplicaciones de escritorio** con identidad  
-- **Librerías UI** diseñadas a mano con detalle  
-- **Lenguajes y herramientas** experimentales  
-- **Contenido exclusivo** en Patreon: ejecutables, previews y rarezas
-
-> 🧿 Lo público es el open-source. Lo privado está en Patreon:
-[patreon.com/SxnnysideProject](https://www.patreon.com/SxnnysideProject)
-
----
-
-## 📦 Tech Stack Favorito
-
-- **Android (Jetpack Compose)** / **SwiftUI**
-- **C#/VB.NET** (we like weird)
-- **Python/JavaScript** (para scripts, juguetes e IA)
-- **XAML, JSON** como arte conceptual
-- Y amor por el **code craft** y lo freak
-
----
-
-## 👁️ Enlaces
-
-| Enlace | Descripción |
-|-------|-------------|
-| [👤 Perfil de Jou](https://github.com/HoujouSxnnyside) | Boss Developer |
-| [📦 Repositorios públicos](https://github.com/Sxnnyside-Project) | Herramientas open-source disponibles |
-| [💎 Patreon](https://www.patreon.com/SxnnysideProject) | Acceso anticipado, ejecutables, y arte digital |
-| [📸 Instagram](https://www.instagram.com/houjou_sxnny) | Contenido visual, previews de proyectos |
-| [🐦 X (Twitter)](https://x.com/Jou_Sxnnyside) | Ideas, actualizaciones y mood dev freak |
-
----
-
-<p align="center"><em>"No solo construimos software, diseñamos arte digital funcional para quienes se atreven a tocar lo raro."</em></p>
-<p align="center">🌗 Sxnnyside Project</p>
+<div align="center">
+  <sub>
+    Built with structure. Dressed in chaos ✦
+  </sub>
+</div>
